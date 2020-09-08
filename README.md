@@ -18,7 +18,7 @@
     * Press `<enter>`
 7. Brigadier will now download the Bootcamp support software from Apple. The entire thing can take 5 minutes.
 8. Now, in Explorer, navigate to the folder where the support software was downloaded to. It should be in the same folder as Brigadier.
-9. Run BootCamp-041-89042\BootCamp\Drivers\Apple\AppleWirelessMouse64.exe
+9. Run `BootCamp-041-89042\BootCamp\Drivers\Apple\AppleWirelessMouse64.exe`
 10. Done!
 
 **This method is _not_ the same as downloading the BootCamp support software directly from the Apple Support website. If you do that, scrolling will _only_ work with the Magic Mouse 1.**
