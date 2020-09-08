@@ -9,8 +9,13 @@
 2. Download [Brigadier](https://github.com/timsutton/brigadier/releases) from GitHub.
 3. Extract brigadier.exe from the ZIP archive.
 4. Press the Windows key and type Command Prompt.
-5. Navigate to the folder where Brigadier was extracted.
-6. Type "brigadier.exe -m MacBookPro14,1" _without_ the quotes.
+5. Navigate to the folder where Brigadier was extracted:
+    * If you downloaded brigadier to your "Downloads" folder you may type: `cd %USERPROFILE%\Downloads`
+    * Press `<enter>`
+    * If brigadier downloaded to a different path, you will need to use that instead.
+6. Run brigadier:
+    * Type: `brigadier.exe -m MacBookPro14,1`
+    * Press `<enter>`
 7. Brigadier will now download the Bootcamp support software from Apple. The entire thing can take 5 minutes.
 8. Now, in Explorer, navigate to the folder where the support software was downloaded to. It should be in the same folder as Brigadier.
 9. Run BootCamp-041-89042\BootCamp\Drivers\Apple\AppleWirelessMouse64.exe
