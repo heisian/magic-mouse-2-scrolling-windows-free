@@ -13,7 +13,7 @@
     * If you downloaded brigadier to your "Downloads" folder you may type: `cd %USERPROFILE%\Downloads`
     * Press `<enter>`
     * If brigadier downloaded to a different path, you will need to use that instead.
-6. Run brigadier:
+6. Run Brigadier:
     * Type: `brigadier.exe -m MacBookPro14,1`
     * Press `<enter>`
 7. Brigadier will now download the Bootcamp support software from Apple. The entire thing can take 5 minutes.
