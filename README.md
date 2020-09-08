@@ -8,7 +8,7 @@
 1. Install [7-Zip](https://www.7-zip.org/a/7z1900-x64.exe).
 2. Download [Brigadier](https://github.com/timsutton/brigadier/releases) from GitHub.
 3. Extract brigadier.exe from the ZIP archive.
-4. Press the Windows key and type Command Prompt.
+4. Press the Windows key and type Command Prompt, then run it.
 5. Navigate to the folder where Brigadier was extracted:
     * If you downloaded brigadier to your "Downloads" folder you may type: `cd %USERPROFILE%\Downloads`
     * Press `<enter>`
